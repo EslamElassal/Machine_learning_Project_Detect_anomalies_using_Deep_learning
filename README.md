@@ -33,7 +33,7 @@ In order to decrease repeated code shanks, increase the time that can read the c
 # Contributing
 Any kind of enhancement or contribution is welcomed.
 
-![alt text](images/TermProject_G18_Presentation_page-0001.jpg)
+ 
 ![alt text](images/TermProject_G18_Presentation_page-0002.jpg)
 ![alt text](images/TermProject_G18_Presentation_page-0003.jpg)
 ![alt text](images/TermProject_G18_Presentation_page-0004.jpg)
@@ -84,7 +84,7 @@ Any kind of enhancement or contribution is welcomed.
 ![alt text](images/TermProject_G18_Presentation_page-0049.jpg)
 ![alt text](images/TermProject_G18_Presentation_page-0050.jpg)
 ![alt text](images/TermProject_G18_Presentation_page-0051.jpg)
-![alt text](images/TermProject_G18_Presentation_page-0052.jpg)
+ 
 
  
 
