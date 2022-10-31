@@ -25,17 +25,10 @@ In order to decrease repeated code shanks, increase the time that can read the c
 - [gzip](https://docs.python.org/3/library/gzip.html) (This module provides a simple interface to compress and decompress files just like the GNU programs gzip and gunzip would.)
 -  
 # Run the Code
-- Upload the Classification, Clustering and deployment parts ipynb code file into "Google Colab"  
-- Press "Run All" in the control panel or "Restart Kernel and Run All" to run all code for Classification and  Clustering notebooks
+- Upload the ipynb code file into "Google Colab"  
+- Press "Run All" in the control panel or "Restart Kernel and Run All" to run all code notebooks
 
-- after get model publish files, we will Change Deployment the path that will add these publish file to  "%cd /content/drive/MyDrive/Data_set/recommender_system" in the deployment code notebook
-- Press "Run All" in the control panel or "Restart Kernel and Run All" to run all code for deployment notebook
-- In case of run each code cell alone, press the run button that appear at each code cell
- tents
-- In case of run each code cell alone, press the run button that appear at each code cell
- tents
-- copy ngork URL and paste it to dialogue flow (you will face a problem because we need to add the same structure of dialogue flow to your intents
-
+ 
  
 # Contributing
 Any kind of enhancement or contribution is welcomed.
